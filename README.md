@@ -1,4 +1,4 @@
-### Hi there! I am a Developer C#/Asp .Net Core and science computer student
+### Hi there! I am a Developer C#/Asp .Net Core and information security student
 
 <div>
    <a href="https://github.com/GustavoFiacador">
